@@ -1,3 +1,6 @@
+# 4 networks, need twitter with 50 subs
+https://faucet.paradigm.xyz/ 0.1 ETH Polygon Optimistic Moonbase 
+
 # ETH Testnet Goerli
 
 ## Not working (03.12)
